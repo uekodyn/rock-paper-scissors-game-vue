@@ -9,6 +9,6 @@
 @import './styles/reset';
 
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+	font-family: 'Barlow Semi Condensed', Helvetica, Arial, sans-serif;
 }
 </style>
